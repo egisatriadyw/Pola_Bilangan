@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "stdlib.h": "c",
+        "pola1": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
